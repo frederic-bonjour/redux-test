@@ -1,0 +1,22 @@
+{
+  "name": "redux-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Fred",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.0.0-beta.44",
+    "immutable": "^3.8.2",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.0.0-beta.44",
+    "babel-core": "^7.0.0-0",
+    "babel-jest": "^22.4.3",
+    "jest": "^22.4.3"
+  }
+}
